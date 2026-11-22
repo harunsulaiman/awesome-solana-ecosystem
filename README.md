@@ -106,6 +106,7 @@
 
 ## Infrastructure & RPC Providers
 
+- [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 - [Helius](https://www.helius.dev/) - Solana RPC infrastructure and enhanced APIs (DAS API for NFTs/compression) for developers.
 - [Triton One](https://triton.one/) - High-performance RPC, validator, and historical data infrastructure for Solana.
 - [Yellowstone gRPC](https://github.com/rpcpool/yellowstone-grpc) - Triton's "Dragon's Mouth" gRPC streaming service for high-performance, low-latency Solana data feeds; the standard most Solana indexers are built on.
